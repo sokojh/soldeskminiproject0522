@@ -36,8 +36,7 @@ public class SSATS extends Frame{
 	p.add(sl2);
 	//패널을 프레임에 붙이기
    fe.add(p);
-   //업데이트
-   
+   //업데이트연습
 		
 	}
 }
