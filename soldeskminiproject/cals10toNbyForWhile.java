@@ -1,5 +1,5 @@
 package mywork;
-
+//바로 편집도 가능한데 한글입력이 아주 느리네요.
 import java.util.Scanner;
 
 public class cals10toNbyForWhile {
